@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "pkief.material-icon-theme",
+    "bungcip.better-toml",
+    "aaron-bond.better-comments",
+    "grain-lang.vscode-grain"
+  ]
+}
